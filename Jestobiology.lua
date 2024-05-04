@@ -556,7 +556,7 @@ function SMODS.INIT.Jestobiology()
             slug = "f_electric_chair",
             ability = {
                 extra = {
-                    odds = 5
+                    odds = 3
                 }
             },
             rarity = 5,
@@ -587,7 +587,7 @@ function SMODS.INIT.Jestobiology()
 
 
     -- Original Character
-    if config.j_f_original_character then
+    if config.j_f_original_character and is_mystJokers then
         -- Create Joker
         local original_character = {
             loc = {
