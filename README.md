@@ -1,6 +1,8 @@
 This mod requires **Fusion Jokers** to work correctly. 
 Currently adds 11 cross mod fusions to Fusion Jokers
 Fusions for
+
+
 [MystJokers](https://github.com/Mysthaps/BalatroMods)
 
 
@@ -10,7 +12,7 @@ Fusions for
 [JankJonklers](https://spikeof2010.github.io/JankJonklers/)
 
 
-[Codex Arcanum](https://itayfeder.github.io/Codex-Arcanum
+[Codex Arcanum](https://itayfeder.github.io/Codex-Arcanum)
 
 
 [MoreFluff](https://notmario.github.io/MoreFluff/)
