@@ -1,3 +1,5 @@
+## [LIST OF JOKERS](https://spikeof2010.github.io/Jestobiology/)
+
 This mod requires **Fusion Jokers** to work correctly. 
 Currently adds 11 cross mod fusions to Fusion Jokers
 Fusions for
